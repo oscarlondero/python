@@ -1,3 +1,0 @@
-#tesst.
-Print("hola mundo")
-
